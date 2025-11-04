@@ -1,4 +1,1 @@
-// TODO: init router: chi, render
-// TODO: init config: cleanenv
-// TODO: run server
-// TODO: make debug
+// TODO: fix strange dependency with github.com/mattn/go-sqlite3 
